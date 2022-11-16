@@ -1,5 +1,6 @@
 # SignedURL
-Bannerbear - Wordpress Plugin for SignedURL
+Bannerbear - Wordpress Plugin to generate imgages using SignedURL
+![image](https://user-images.githubusercontent.com/93692203/202110910-ff81b893-00e7-4429-ade8-3b2cb2a38c58.png)
 
 ## Wordpress Plugin
 
